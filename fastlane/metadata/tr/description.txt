@@ -1,10 +1,7 @@
-Call of Ranch, birleşik bir kule savunma oyunudur. Çiftlik, Doğa'nın Mevsim Patronlarının saldırısı altında! Çiftliği gelen düşman ordularından koruyun. Her düşmanın kendine özgü istatistikleri olduğundan farklı bir yaklaşım gerektirir. Canavarlarla eşleşmek için kule görevi gören ve her birinin kendine özgü bir uzmanlığı olan bir karakter ekibiniz var!
-Düşmanları yenmek için çağırmanız, birleştirmeniz ve seviye atlamanız gereken Temel, Buzlu, Zehirli, Çevik, İsabetli ve daha fazla kule türü var.
+Farm Survivorr, çiftlik üssünüzü düşmanlardan korumak için bir grup karakter topladığınız bir hayatta kalma savunma oyunudur. Amacınız strateji geliştirmek, dalgaları yenmek, kahramanlarınızı geliştirmek ve üssünüzü güvende tutarken tüm sezonlarda hayatta kalmaktır!
 
-Çiftliğin huzurunu sağlamak için dört mevsim patronunu da yenmeniz gerekiyor; onları alt etmek için üç kez yenmeniz gerekiyor, yani toplamda her biri yirmi dalgadan oluşan on iki seviye var!
+Görevinize düşman karakterlerle başlıyorsunuz. Bir süre oynadıktan sonra, grubunuzu daha fazla karakterle genişletmek için yeterli oyun içi para kazanacaksınız. Grubunuzla üssü on dalga boyunca savunmanız gerekiyor; beşinci dalga elit düşman grubu, onuncu dalga ise boss dalgasıdır. Sonraki her seviye daha da zorlaştığından, grubunuzu stratejik ve akıllıca bir şekilde geliştirmeniz ve oluşturmanız önemlidir.
 
-Seviyeler iki aşamaya ayrılmıştır: dinlenme ve savaş. Hazırlanırken çağrılarınızı kullanın, kuleleri birleştirin ve hareket ettirin. Savaş aşamasında, düşmanın zayıf yönleri hakkında bilgi edinin ve seviyeyi tamamlamak için bonus eşyalar kullanın. Çiftliğin dayanıklılığını geri kazandırmak için bir kalp ve düşmanlara hasar vermek için bir bomba.
+Hayvanlarınızı geliştirin, istatistiklerini yükseltin, toplam can havuzunu artırın, saldırı hasarını artırın ve saldırı hızlarını artırarak daha çevik olmalarını sağlayın. Alternatif olarak, düşmanlara hasar vermek ve müttefikleri iyileştirmek için bombalar ve kalpler satın alın, hatta daha iyisi yeni karakterler satın alın!
 
-Ayrıca, seviyelerin dışındaki kuleleri de güçlendirerek oyun tarzınıza uygun olanı seçin!
-
-Ne bekliyorsunuz? Hordes geliyor, Call of Ranch'i indirin ve kahramanların komutasını üstlenin!
+Farm Survivor'ı bugün indirin, kendi benzersiz ekibinizi kurun ve hayatta kalma mücadelesini kazanın!

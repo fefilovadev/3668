@@ -1,9 +1,7 @@
-Call of Ranch ist ein Tower-Defense-Spiel, in dem du deine Farm mit verschiedenen Charakteren kombinierst. Die Farm wird von den Jahreszeiten-Bossen angegriffen! Verteidige sie gegen die anstürmenden Horden von Feinden. Jeder Gegner erfordert eine andere Strategie, da jeder über einzigartige Werte verfügt. Um die Monster zu besiegen, steht dir ein Team aus Charakteren zur Verfügung, die als Türme fungieren und jeweils ihre eigene Spezialfähigkeit besitzen! Es gibt viele weitere Turmtypen: Basis, Eis, Gift, Agil, Präzision und mehr. Beschwöre, kombiniere und verbessere deine Türme, um die Feinde zu besiegen.
+Farm Survivor ist ein Survival-Defense-Spiel, in dem du ein Team aus Charakteren zusammenstellst, um deine Farmbasis vor Feinden zu schützen. Dein Ziel ist es, strategisch vorzugehen, Wellen von Gegnern zu überstehen, deine Helden zu verbessern und alle Jahreszeiten zu überleben, während du deine Basis sicherst!
 
-Um den Frieden auf der Farm wiederherzustellen, musst du alle vier Jahreszeiten-Bosse besiegen. Jeder Boss muss dreimal besiegt werden, sodass es insgesamt zwölf Level mit jeweils zwanzig Wellen gibt!
+Du beginnst dein Abenteuer mit Startcharakteren. Nach einer Weile verdienst du genug Spielwährung, um dein Team zu erweitern. Mit deinem Team musst du die Basis zehn Wellen lang verteidigen. Die fünfte Welle ist eine Elite-Gegnergruppe, die zehnte ein Bosskampf. Jedes Level wird schwieriger, daher ist es wichtig, dein Team strategisch und klug aufzubauen und zu verbessern.
 
-Die Level sind in zwei Phasen unterteilt: Ruhephase und Kampfphase. Während du dich vorbereitest, nutze deine Beschwörungen, kombiniere Türme und positioniere sie. Sammle während der Kampfphase Informationen über die Schwächen der Feinde und nutze Bonusgegenstände, um das Level zu meistern. Ein Herz stellt die Widerstandsfähigkeit der Farm wieder her und eine Bombe fügt Feinden Schaden zu.
+Verbessere deine Helden, steigere ihre Werte, erhöhe ihre Lebenspunkte, ihren Angriffsschaden und mache sie agiler, indem du ihre Angriffsgeschwindigkeit erhöhst. Alternativ kannst du Bomben und Herzen kaufen, um als Kommandant Feinde zu schädigen und Verbündete zu heilen, oder noch besser: Kaufe neue Charaktere!
 
-Verbessere auch Türme außerhalb der Level, um sie noch stärker zu machen. Wähle die, die am besten zu deinem Spielstil passen!
-
-Worauf wartest du noch? Horden rücken an! Lade Call of Ranch herunter und übernimm das Kommando über die Helden!
+Lade Farm Survivor noch heute herunter, stelle dein einzigartiges Team zusammen und meistere die Survival-Herausforderung!

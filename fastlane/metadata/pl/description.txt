@@ -1,10 +1,7 @@
-Call of Ranch to gra typu tower defense, w której łączysz elementy obrony wieży. Farma jest atakowana przez bossów z Nature's Seasons! Broń farmy przed nadciągającymi hordami wrogów. Każdy wróg wymaga innego podejścia, ponieważ każdy ma unikalne statystyki. Aby dopasowywać potwory, masz drużynę postaci, które działają jak wieża, a każda z nich ma swoją specjalizację!
-Podstawowe, Lodowe, Trujące, Zwinne, Celne i wiele innych typów wież, które możesz przywołać, połączyć i awansować, aby pokonać wrogów.
+Farm Survivorr to gra obronna, w której zbierasz grupę postaci, aby chronić swoją bazę przed wrogami. Twoim celem jest opracowywanie strategii, pokonywanie fal, ulepszanie bohaterów i przetrwanie wszystkich pór roku, dbając jednocześnie o bezpieczeństwo bazy!
 
-Aby przywrócić spokój na farmie, musisz pokonać wszystkich czterech sezonowych bossów. Aby ich pokonać, musisz pokonać ich trzy razy, więc w sumie jest dwanaście poziomów, po dwadzieścia fal każdy!
+Rozpoczynasz swoją misję z postaciami, które są w gotowości. Po krótkiej grze zdobędziesz wystarczającą ilość waluty w grze, aby rozszerzyć swoją grupę o kolejne postacie. Z grupą musisz bronić bazy przez dziesięć fal, piąta fala to fala elitarnych wrogów, a dziesiąta to fala bossów. Każdy kolejny poziom staje się trudniejszy, dlatego ważne jest, aby ulepszać i budować swoją grupę w strategiczny i inteligentny sposób.
 
-Poziomy są podzielone na dwie fazy: odpoczynku i walki. Podczas przygotowań używaj swoich przywołań, łącz wieże i przesuwaj je. W fazie walki zbierz informacje o słabościach wroga i użyj przedmiotów bonusowych, aby ukończyć poziom. Serce przywróci wytrzymałość farmy, a bomba zrani wrogów.
+Ulepszaj swoje postacie, podnoś ich statystyki, zwiększaj całkowitą pulę zdrowia, zwiększaj obrażenia od ataku i uczyń je bardziej zwinnymi, zwiększając ich prędkość ataku. Możesz też kupować bomby i serca, aby zadawać obrażenia wrogom i leczyć sojuszników jako dowódca, a jeszcze lepiej – kupować nowe postacie!
 
-Ulepszaj wieże również poza poziomami, aby były jeszcze silniejsze – wybierz te, które najbardziej pasują do Twojego stylu gry!
-
-Na co więc czekasz? Hordy nadchodzą, pobierz Call of Ranch i przejmij dowództwo nad bohaterami!
+Pobierz Farm Survivor już dziś, stwórz własną, unikalną drużynę i podejmij wyzwanie przetrwania!
