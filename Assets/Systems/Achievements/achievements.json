@@ -1,0 +1,139 @@
+{
+  "achievements": [
+    {
+      "Id": 1,
+      "Title": "First Hatch",
+      "Description": "Generate your first chicken tower on the battlefield.",
+      "RewardCoins": 10,
+      "TargetProgress": 1,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 2,
+      "Title": "First Merge",
+      "Description": "Combine two identical chickens to create a stronger one.",
+      "RewardCoins": 15,
+      "TargetProgress": 1,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 3,
+      "Title": "Farm Defender",
+      "Description": "Defeat your first enemy wave and protect the farm.",
+      "RewardCoins": 20,
+      "TargetProgress": 1,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 4,
+      "Title": "Strategist",
+      "Description": "Reposition a chicken to another tower point during battle.",
+      "RewardCoins": 20,
+      "TargetProgress": 1,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 5,
+      "Title": "First Boss Down",
+      "Description": "Defeat your first boss enemy on wave 10 or higher.",
+      "RewardCoins": 30,
+      "TargetProgress": 1,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 6,
+      "Title": "Golden Rooster",
+      "Description": "Upgrade a chicken to level 6 (maximum).",
+      "RewardCoins": 40,
+      "TargetProgress": 1,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 7,
+      "Title": "Egg Hoarder",
+      "Description": "Collect 10,000 eggs in total across games.",
+      "RewardCoins": 50,
+      "TargetProgress": 10000,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 8,
+      "Title": "Triple Star Victory",
+      "Description": "Complete a level with 3 stars.",
+      "RewardCoins": 25,
+      "TargetProgress": 1,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 9,
+      "Title": "Chicken Army",
+      "Description": "Have 10 chickens placed on the battlefield at the same time.",
+      "RewardCoins": 35,
+      "TargetProgress": 10,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 10,
+      "Title": "Snowstorm",
+      "Description": "Use the Icy Chicken to slow down 100 enemies.",
+      "RewardCoins": 25,
+      "TargetProgress": 100,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 11,
+      "Title": "Toxic Trail",
+      "Description": "Deal poison damage to 200 enemies using the Poisonous Chicken.",
+      "RewardCoins": 25,
+      "TargetProgress": 200,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 12,
+      "Title": "Explosive Tactics",
+      "Description": "Defeat 5 or more enemies with one explosion.",
+      "RewardCoins": 30,
+      "TargetProgress": 5,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 13,
+      "Title": "Sniper Shot",
+      "Description": "Eliminate 50 enemies using Sniper Chickens.",
+      "RewardCoins": 40,
+      "TargetProgress": 50,
+      "isCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 14,
+      "Title": "Elite Farmer",
+      "Description": "Complete all 9 levels of the map.",
+      "RewardCoins": 60,
+      "TargetProgress": 9,
+      "IsCompleted": false,
+      "IsRewarded": false
+    },
+    {
+      "Id": 15,
+      "Title": "Ultimate Defender",
+      "Description": "Survive 20 enemy waves without losing any lives.",
+      "RewardCoins": 70,
+      "TargetProgress": 20,
+      "isCompleted": false,
+      "IsRewarded": false
+    }
+  ]
+}

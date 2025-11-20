@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c94b861b3c8ce4e4aa9ecad43e817992, type: 3}
+  m_Name: PoisonUnitConfig
+  m_EditorClassIdentifier: 
+  Type: 1
+  Level: 1
+  PowerLevel: 1
+  SpeedLevel: 1
+  RadiusLevel: 1
+  MaxStatLevel: 6
+  Damage: 15
+  AttackRate: 1
+  ProjectileSpeed: 10
+  AttackRadius: 1.5
+  DamageBonusPercent: 0.8
+  SpeedBonusPercent: 0.1
+  RadiusBonusPercent: 0.2
+  DamagePercent: 0.2
+  SpeedPercent: 0.1
+  RadiusPercent: 0.05
