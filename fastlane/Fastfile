@@ -349,10 +349,10 @@ desc "Upload metadata"
                   add_id_info_uses_idfa: true,
             },
             app_review_information: {
-                first_name: "Olena",
-                last_name: "Kara",
-                phone_number: "+380972291613",
-                email_address: "Karaolena43@gmail.com"
+                first_name: "Karina",
+                last_name: "Felinova",
+                phone_number: "+380982713094",
+                email_address: "fefilovak297@gmail.com"
               },
             reject_if_possible: false,
             overwrite_screenshots: true,
@@ -367,6 +367,7 @@ desc "Upload metadata"
     end
 
 end
+
 
 
 
