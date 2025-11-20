@@ -1,4 +1,4 @@
-Rogue's Ranch to gra typu tower defense, w której łączysz elementy. Farma jest atakowana przez bossów z Nature's Seasons! Broń farmy przed nadciągającymi hordami wrogów. Każdy wróg wymaga innego podejścia, ponieważ każdy ma unikalne statystyki. Aby dopasowywać potwory, masz drużynę postaci, które pełnią funkcję wieży, a każda z nich ma swoją specjalizację!
+Call of Ranch to gra typu tower defense, w której łączysz elementy obrony wieży. Farma jest atakowana przez bossów z Nature's Seasons! Broń farmy przed nadciągającymi hordami wrogów. Każdy wróg wymaga innego podejścia, ponieważ każdy ma unikalne statystyki. Aby dopasowywać potwory, masz drużynę postaci, które działają jak wieża, a każda z nich ma swoją specjalizację!
 Podstawowe, Lodowe, Trujące, Zwinne, Celne i wiele innych typów wież, które możesz przywołać, połączyć i awansować, aby pokonać wrogów.
 
 Aby przywrócić spokój na farmie, musisz pokonać wszystkich czterech sezonowych bossów. Aby ich pokonać, musisz pokonać ich trzy razy, więc w sumie jest dwanaście poziomów, po dwadzieścia fal każdy!
@@ -7,4 +7,4 @@ Poziomy są podzielone na dwie fazy: odpoczynku i walki. Podczas przygotowań u�
 
 Ulepszaj wieże również poza poziomami, aby były jeszcze silniejsze – wybierz te, które najbardziej pasują do Twojego stylu gry!
 
-Na co więc czekasz? Hordy nadchodzą, pobierz Rogue's Ranch i przejmij dowództwo nad bohaterami!
+Na co więc czekasz? Hordy nadchodzą, pobierz Call of Ranch i przejmij dowództwo nad bohaterami!

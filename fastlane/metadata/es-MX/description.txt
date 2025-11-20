@@ -1,4 +1,4 @@
-Rogue's Ranch es un juego de defensa de torres con fusión de torres. ¡La granja está bajo el ataque de los Jefes de las Estaciones de la Naturaleza! Defiéndela de las hordas de enemigos que se aproximan. Cada enemigo requiere una estrategia diferente, ya que cada uno tiene estadísticas únicas. Para enfrentarte a los monstruos, cuentas con un escuadrón de personajes que funcionan como torres, ¡cada uno con su propia especialidad!
+Call of Ranch es un juego de defensa de torres con fusión de torres. ¡La granja está bajo el ataque de los Jefes de las Estaciones de la Naturaleza! Defiéndela de las hordas de enemigos que se aproximan. Cada enemigo requiere una estrategia diferente, ya que cada uno tiene estadísticas únicas. Para enfrentarte a los monstruos, cuentas con un escuadrón de personajes que funcionan como torres, ¡cada uno con su propia especialidad!
 
 Torres básicas, de hielo, venenosas, ágiles, precisas y de muchos otros tipos que puedes invocar, fusionar y subir de nivel para derrotar a los enemigos.
 
@@ -8,4 +8,4 @@ Los niveles se dividen en dos fases: descanso y combate. Mientras te preparas, u
 
 Mejora también las torres fuera de los niveles para hacerlas aún más fuertes. ¡Elige la que mejor se adapte a tu estilo de juego!
 
-¿A qué esperas? ¡Se acercan hordas! Descarga Rogue's Ranch y toma el mando de los héroes.
+¿A qué esperas? ¡Se acercan hordas! Descarga Call of Ranch y toma el mando de los héroes.
