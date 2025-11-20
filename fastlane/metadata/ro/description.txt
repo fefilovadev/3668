@@ -1,6 +1,6 @@
-Rogue Ranch este un joc de tip „merge tower defense”. Ferma este atacată de șefii anotimpurilor naturii! Apără ferma de hoardele de inamici care vin. Fiecare inamic necesită o abordare diferită, deoarece are statistici unice. Pentru a potrivi monștrii, ai o echipă de personaje care funcționează ca turnuri, fiecare cu propria specialitate!
+Rogue's Ranch este un joc de tip „merge tower defense”. Ferma este atacată de șefii anotimpurilor naturii! Apără ferma de hoardele de inamici care vin. Fiecare inamic necesită o abordare diferită, deoarece are statistici unice. Pentru a potrivi monștrii, ai o echipă de personaje care funcționează ca turnuri, fiecare cu propria specialitate!
 
-Basic, Icy, Otravă, Agile, Precise și mai multe tipuri de turnuri pe care le poți invoca, uni și crește în nivel pentru a învinge inamicii.
+De bază, gheață, otrăvire, agil, precizie și mai multe tipuri de turnuri pe care le poți invoca, uni și crește în nivel pentru a învinge inamicii.
 
 
 Pentru a restabili pacea fermei, trebuie să-i învingi pe toți cei patru șefi sezonieri. Pentru a-i doborî, trebuie să fie învinși de trei ori, deci în total există doisprezece niveluri cu câte douăzeci de valuri fiecare!
@@ -11,4 +11,4 @@ Nivelurile sunt împărțite în două faze: odihnă și luptă. În timp ce te 
 
 De asemenea, modernizează turnurile în afara nivelurilor pentru a le face și mai puternice, alege-le pe cele care îți plac pentru a se potrivi stilului tău de joc!
 
-Deci, ce mai aștepți? Vin hoardele, descarcă Rogue Ranch și preia comanda eroilor!
+Deci, ce mai aștepți? Vin hoardele, descarcă Rogue's Ranch și preia comanda eroilor!

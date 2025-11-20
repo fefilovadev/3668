@@ -1,4 +1,4 @@
-Rogue Ranch er et sammenslått tårnforsvarsspill. Gården er under angrep fra Nature's Seasons Bosses! Forsvar gården mot innkommende horder av fiender. Hver fiende krever en annen tilnærming siden hver har unike statistikk. For å matche monstre har du en gruppe karakterer som fungerer som tårn, også hver med sin spesialitet!
+Rogue's Ranch er et sammenslåingsspill for tårnforsvar. Gården er under angrep fra Nature's Seasons-bosser! Forsvar gården mot innkommende horder av fiender. Hver fiende krever en annen tilnærming siden hver har unike statistikk. For å matche monstre har du en gruppe karakterer som fungerer som tårn, også hver med sin spesialitet!
 
 Basic, Icy, Poison, Agile, Accurate og flere typer tårn du kan tilkalle, slå sammen og nivå opp for å beseire fiendene.
 
@@ -8,4 +8,4 @@ Nivåene er delt inn i to faser: hvile og kamp. Mens du gjør deg klar, bruk til
 
 Oppgrader også tårn utenfor nivåene for å gjøre dem enda sterkere, velg det du liker for å passe din spillestil!
 
-Så hva venter du på? Horder kommer, last ned Rogue Ranch og ta kommandoen over heltene!
+Så hva venter du på? Horder kommer, last ned Rogue's Ranch og ta kommandoen over heltene!
